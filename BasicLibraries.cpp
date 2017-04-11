@@ -3,6 +3,7 @@
 
 #include "stdafx.h"
 #include "schoolUtilsMath.h"
+#include "schoolUtilsStrings.h"
 #include <iostream>
 
 using namespace std;
